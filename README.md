@@ -7,6 +7,7 @@
 в директории `portfolio/rest-api`.
 Для сохранения изображений для портфолио используется папка `portfolio/img/projects`.
 Для сохранения своего фото резюме используется папка `portfolio/img/about`.
+Для смены иконки сайта, замените файл `favicon.ico`.
 
 Для того, чтобы опубликовать свое резюме на бесплатном хостинге github.io
 прочите статью - https://htmlacademy.ru/blog/git/github-as-hosting
